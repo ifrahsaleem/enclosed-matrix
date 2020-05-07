@@ -1,0 +1,2 @@
+# enclosed-matrix
+The aim of this program is to find an enclosed area in a 2D matrix that contains the characters ‘x’s and ‘o’s. Each cell on the matrix contains one letter; ‘o’ mean empty cell; ‘x’ means occupied cell or can also be assumed as walls. User will be able to start from any coordinate and the program will automatically find a path by going one cell at a time in vertical and horizontal directions (diagonal movement is not allowed). At the end, depending on whether the path found is an enclosed area or not, the program will display appropriate messages.
