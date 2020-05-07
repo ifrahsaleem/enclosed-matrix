@@ -1,4 +1,3 @@
-//i//ifrah saleem 26238
 
 #include <iostream>
 #include <string>
